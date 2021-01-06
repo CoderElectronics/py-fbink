@@ -14,3 +14,7 @@ Because cross-compiling Python & Python modules is fairly hellish, this is bundl
 ## Examples
 
 For another very minimal example, see how this is used in [LibrarianSync](https://github.com/NiLuJe/librariansync/blob/master/librariansync/kindle_logging.py) ;).
+
+## Fork Details
+
+My fork of this library includes a basic UI-drawing routine, and rudimentary input using evdev on button-based kindles. This allows for fullscreen UIs on kindles with no touch screen.
